@@ -1,5 +1,5 @@
 # Election
-Examines relationship between county level demographic info and presidential election results.
+Uses linear model to examine relationship between county level demographic info and presidential election results.
 
 County level demographic information and presidential election results for each county in the United States as of the 2016 presidential election.
 
